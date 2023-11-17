@@ -1,8 +1,8 @@
-<img align="center" alt="Coding" width="1000" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<a align="center" width="1000">![Full-Stack Developer copy 4](https://github.com/Brank8/Brank8/assets/35170382/3bc466e7-2059-496e-bb20-4f48114a2bd3)</a>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=10&size=35&duration=3000&pause=1000&color=4277F7&background=6AFFF600&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Branko+Stanisic%F0%9F%A4%97" alt="Typing SVG" /></a></h1>
 
-<h2 align="center">𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h2>
+<h2 align="center">𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h2>
 
 <div align="center">
 
@@ -42,3 +42,5 @@ Reach me at **branko.stanisic02@gmail.com** 📫
 <a href="https://linkedin.com/in/brankostanisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brankostanisic" height="30" width="40" /></a>
 <a href="https://instagram.com/banjoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banjoza" height="30" width="40" /></a> <a href="https://twitter.com/banjozaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjozaa" height="30" width="40" /></a>
 <a href="https://fb.com/branko02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="branko02" height="30" width="40" /></a>
+
+<img align="center" alt="Coding" width="1000" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">

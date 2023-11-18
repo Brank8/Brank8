@@ -36,10 +36,10 @@ Reach me at **branko.stanisic02@gmail.com** 📫
   <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,ps,ai" />
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brank8&show_icons=true&locale=en&layout=compact" alt="brank8" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brank8&show_icons=true&locale=en&layout=compact" alt="brank8" /></p>
 
-<div align="right" width="100px">
-<p>ꏸ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:‎ ‎
+<div align="left">
+<p>‎ ‎ꏸ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:‎ ‎
 
 <a href="https://linkedin.com/in/brankostanisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brankostanisic" height="30" /></a>
 <a href="https://instagram.com/banjoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banjoza" height="30" /></a> <a href="https://twitter.com/banjozaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjozaa" height="30" /></a>

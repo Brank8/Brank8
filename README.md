@@ -28,7 +28,7 @@ Reach me at **branko.stanisic02@gmail.com** 📫
 <h3>‎ ‎ꏸ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:‎ ‎‎
 <a href="https://linkedin.com/in/brankostanisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brankostanisic" height="30" /></a>
 <a href="https://instagram.com/banjoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banjoza" height="30" /></a> <a href="https://twitter.com/banjozaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjozaa" height="30" /></a>
-<a href="https://fb.com/branko02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="branko02" height="30" /></a></h3>
+<a href="https://fb.com/banjozaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banjozaa" height="30" /></a></h3>
 </div>
 
 <h2 align="center">Languages and Tools:</h2>

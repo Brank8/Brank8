@@ -24,6 +24,12 @@ Fun fact about me is that I am 6'7" from Montenegro🇲🇪
 Reach me at **branko.stanisic02@gmail.com** 📫
 
 </div>
+<div align="center">
+<h3>‎ ‎ꏸ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:‎ ‎‎
+<a href="https://linkedin.com/in/brankostanisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brankostanisic" height="30" /></a>
+<a href="https://instagram.com/banjoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banjoza" height="30" /></a> <a href="https://twitter.com/banjozaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjozaa" height="30" /></a>
+<a href="https://fb.com/branko02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="branko02" height="30" /></a></h3>
+</div>
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="center">
@@ -36,14 +42,6 @@ Reach me at **branko.stanisic02@gmail.com** 📫
   <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,ps,ai" />
 </div>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brank8&show_icons=true&locale=en&layout=compact" alt="brank8" /></p>
-
-<div align="left">
-<p>‎ ‎ꏸ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:‎ ‎
-
-<a href="https://linkedin.com/in/brankostanisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brankostanisic" height="30" /></a>
-<a href="https://instagram.com/banjoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="banjoza" height="30" /></a> <a href="https://twitter.com/banjozaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjozaa" height="30" /></a>
-<a href="https://fb.com/branko02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="branko02" height="30" /></a>
-</div>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brank8&show_icons=true&locale=en&layout=compact" alt="brank8" /></p>
 
 <img align="center" alt="Coding" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">

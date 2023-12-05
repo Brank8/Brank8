@@ -17,7 +17,7 @@ My thoughts lies in crafting visually appealing and user-friendly interfaces,
 
 and that's why my dedication to the art of styling sets me apart. 🧑‍🎨
 
-I just created my first quiz game. Try it out! [TRIVIAGRAPHY](https://brank8.github.io/Triviagraphy/) 🌍
+I just created my first quiz game. Try it out! [TRIVIAGRAPHY](https://brank8.github.io/Triviagraphy-Game/) 🌍
 
 Fun fact about me is that I am 6'7" from Montenegro🇲🇪
 

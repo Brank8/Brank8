@@ -45,3 +45,5 @@ Reach me at **branko.stanisic02@gmail.com** 📫
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brank8&show_icons=true&locale=en&layout=compact" alt="brank8" /></p>
 
 <img align="center" alt="Coding" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
+<img align="center" width="1200" src="https://i.imgur.com/s7JJKX6.gif">

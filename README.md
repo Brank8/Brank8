@@ -15,9 +15,11 @@ I specialize in CSS styling, bringing a creative touch and ideas to web developm
 
 My thoughts lies in crafting visually appealing and user-friendly interfaces,
 
-and that's why my dedication to the art of styling sets me apart. 🧑‍🎨
+and that's why my dedication to the art of CSS styling sets me apart. 🧑‍🎨
 
-I just created my first quiz game. Try it out! [TRIVIAGRAPHY](https://brank8.github.io/Triviagraphy-Game/) 🌍
+I have created my first quiz game. Just try it out - [Triviagraphy](https://brank8.github.io/Triviagraphy-Game/) 🌍
+
+Don't forget to check out my dog dating app - [DoggyDate](https://doggydating-c428b5defcd3.herokuapp.com/) 🐾
 
 Fun fact about me is that I am 6'7" from Montenegro🇲🇪
 

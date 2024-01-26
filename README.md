@@ -4,7 +4,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=10&size=35&duration=3000&pause=1000&color=4277F7&background=6AFFF600&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Branko+Stanisic%F0%9F%A4%97" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=10&size=35&duration=3000&pause=1000&color=4277F7&background=6AFFF600&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Branko+Stanisic" alt="Typing SVG">
     </a>
 </h1>
 
@@ -19,8 +19,7 @@
     <p>I have created my first quiz game. Just try it out - <a href="https://brank8.github.io/Triviagraphy-Game/">Triviagraphy</a> 🌍</p>
     <p>Don't forget to check out my dog dating app - <a href="https://doggydating-c428b5defcd3.herokuapp.com/">DoggyDate</a> 🐾</p>
     <p>Fun fact about me is that I am 6'7" from Montenegro🇲🇪</p>
-    <p>Reach me at <strong><a href="mailto:branko.stanisic02@gmail.com">branko.stanisic02@gmail.com</a>
-</strong> 📫</p>
+    <p>Reach me at <strong><a href="mailto:branko.stanisic02@gmail.com">branko.stanisic02@gmail.com</a></strong> 📫</p>
 </div>
 
 <div align="center">
@@ -36,23 +35,24 @@
     </a>
     <a href="https://fb.com/banjozaa" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banjozaa" height="30">
-    </a></h3>
-</div>
-
-<h2 align="center">Languages and Tools:</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python,react,nodejs" alt="Languages and Tools">  
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=css,html,express,jquery,replit" alt="Languages and Tools">
-</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,ps,ai" alt="Languages and Tools">
+    </a>
+    </h3>
 </div>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brank8&show_icons=true&locale=en&layout=compact" alt="brank8">
 </p>
+
+<h2 align="center">Languages and Tools:</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,python,react,nodejs,vscode" alt="Languages and Tools">  
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=css,html,express,github,replit,vite,django" alt="Languages and Tools">
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,git,postman,heroku,netlify,jquery,ps,ai" alt="Languages and Tools">
+</div>
 
 <img align="center" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding">
 

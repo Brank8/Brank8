@@ -55,5 +55,3 @@
 </div>
 
 <img align="center" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Coding">
-
-<img align="center" width="1200" src="https://i.imgur.com/s7JJKX6.gif" alt="Animation">

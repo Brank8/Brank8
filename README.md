@@ -11,7 +11,7 @@
 <h2 align="center">𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h2>
 
 <div align="center">
-    <p>I am currently studying full-stack Software Engineering at General Assembly bootcamp! 👨‍💻</p>
+    <p>I have just recently graduated General Assembly Full-Stack Software Engineering Bootcamp👨‍💻</p>
     <p>Really excited about new career switch because I love coding and creating solutions! 🥳</p>
     <p>I specialize in CSS styling, bringing a creative touch and ideas to web development.</p>
     <p>My thoughts lies in crafting visually appealing and user-friendly interfaces,</p>

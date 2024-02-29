@@ -24,7 +24,7 @@
 
 <div align="center">
     <h3>‎ ‎ꏸ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:‎ ‎ ‎
-    <a href="https://linkedin.com/in/brankostanisic" target="_blank">
+    <a href="https://linkedin.com/in/brankostanisic/" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brankostanisic" height="30">
     </a>
     <a href="https://instagram.com/banjoza" target="_blank">

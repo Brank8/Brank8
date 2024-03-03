@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="1100" src="https://github.com/Brank8/Brank8/assets/35170382/3a1662a2-1b3f-4474-9549-0b42f49ee138" alt="Full-Stack Developer">
+    <img width="1200" src="https://github.com/Brank8/Brank8/assets/35170382/3a1662a2-1b3f-4474-9549-0b42f49ee138" alt="Full-Stack Developer">
 </div>
 
 <h1 align="center">

@@ -33,7 +33,7 @@
     <a href="https://twitter.com/banjozaa" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjozaa" height="30">
     </a>
-    <a href="https://fb.com/banjozaa" target="_blank">
+    <a href="https://facebook.com/banjozaa" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="banjozaa" height="30">
     </a>
     </h3>
